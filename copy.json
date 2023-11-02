@@ -1,7 +1,7 @@
 {
   "default": {
     "persistentBanner": {
-      "title": "Save up to 25% on business insurance, for {{PARTNER_NAME}} businesses.",
+      "title": "Save up to 25% on business insurance, only for {{PARTNER_NAME}} businesses.",
       "ctaButtonLabel": "Learn More"
     },
     "insurancePortalModalEducationPage": {
