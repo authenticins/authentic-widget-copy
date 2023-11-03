@@ -1,7 +1,8 @@
 {
   "default": {
     "persistentBanner": {
-      "title": "Insurance premiums keep increasing? Save up to 25% on General Liability and Property insurance only for {{PARTNER_NAME}} businesses.",
+      "title": "Insurance premiums keep increasing?",
+      "description": "Save up to 25% on General Liability and Property insurance only for {{PARTNER_NAME}} businesses.",
       "ctaButtonLabel": "Learn More"
     },
     "insurancePortalModalEducationPage": {
