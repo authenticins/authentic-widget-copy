@@ -2,19 +2,19 @@
   "default": {
     "persistentBanner": {
       "title": "Insurance premiums keep increasing?",
-      "description": "Save up to 25% with a free General Liability and Property quote, only for {{PARTNER_NAME}} businesses.",
+      "description": "Save up to 25% with a free General Liability and Property quote, only for our customers.",
       "ctaButtonLabel": "Explore Our Prices"
     },
     "insurancePortalModalEducationPage": {
-      "title": "Insurance that works for you.",
+      "title": "Fast and easy insurance built for your business.",
       "offerings": [
         "General Liability",
         "Business Interruption",
         "Property Contents"
       ],
-      "description": "{{PARTNER_NAME}} has teamed up with Authentic Insurance to provide affordable, custom-tailored business coverage exclusively for {{PARTNER_NAME}} businesses, backed by AM Best rated insurers <a href='https://www.everspangroup.com/home/default.aspx' target='_blank'>Everspan</a> and <a href='https://greenlightre.com/' target='_blank'>Greenlight Re</a>.",
-      "extraDescription": "Choose what's important to you, while saving up to 25% off your premium.",
-      "ctaButtonLabel": "Get a quote and start your coverage today",
+      "description": "We teamed up with Authentic Insurance to provide custom-tailored Business Owner's Policies exclusively for our customers. Backed by trusted insurers <a href='https://www.everspangroup.com/home/default.aspx' target='_blank'>Everspan</a> and <a href='https://greenlightre.com/' target='_blank'>Greenlight Re</a>.",
+      "extraDescription": "No policy fees. Monthly payment options. Save up to 25%.",
+      "ctaButtonLabel": "Get a quote in less than 5 minutes",
       "imageUrl": "https://images.unsplash.com/photo-1590091507389-d3af462e59d5?auto=format&fit=crop&q=80&w=1587&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   },
