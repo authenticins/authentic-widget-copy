@@ -1,9 +1,9 @@
 {
   "default": {
     "persistentBanner": {
-      "title": "Insurance premiums keep increasing?",
+      "title": "Take 5 minutes to see if you can save with {{PARTNER_NAME}} business insurance.",
       "description": "Save up to 25% with a free General Liability and Property quote, only for {{PARTNER_NAME}} customers.",
-      "ctaButtonLabel": "Explore Our Prices"
+      "ctaButtonLabel": "Check Our Prices"
     },
     "insurancePortalModalEducationPage": {
       "title": "Quick, easy & affordable.",
