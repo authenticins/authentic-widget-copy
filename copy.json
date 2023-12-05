@@ -28,5 +28,10 @@
     "insurancePortalModalEducationPage": {
       "imageUrl": "https://abcfitness.com/wp-content/uploads/HOME-PLATFORMS-GLOFOX-jpg-webp.webp"
     }
+  },
+  "toast": {
+    "insurancePortalModalEducationPage": {
+      "imageUrl": "IMAGE-HERE"
+    }
   }
 }
